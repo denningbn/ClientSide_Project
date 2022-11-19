@@ -5,6 +5,35 @@
 	<title>Project</title>
 </head>
 <body>
+	<article id='artOne'> 
+		<table>
+			<thead>
+				<tr> 
+					<th></th>
+					
+					<th>First Name</th>
 
+					<th>Last Name</th>
+
+					<th>Language</th>
+
+					<th>Level Of Proficiency</th>
+
+					<th>First Name</th>
+				</tr>
+			</thead>
+
+			
+		</table>
+	
+	</article>
+
+	<article id='artTwo'> 
+	
+	</article>
+
+	<article id='artThree'> 
+	
+	</article>
 <body>
 </html>
